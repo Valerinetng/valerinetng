@@ -1,10 +1,10 @@
 <h1 align="center"> Hello There 👋 </h1>
-## My friend calls me an Energizer Bunny, so I wrote it in my resume summary, and got heavy backlash. 
+#### My friend calls me an Energizer Bunny, so I wrote it in my resume summary, and got heavy backlash. 
 
-Fun facts
+###Fun facts
 * I am new to coding!*
 
-LIST OF PROGRAMMING LANGUAGE/SOFTWARE I LEARNT
+###LIST OF PROGRAMMING LANGUAGE/SOFTWARE I LEARNT
   <br>
 <table>
 <tbody>
