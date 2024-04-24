@@ -1,17 +1,17 @@
 <h1 align="center"> Hello There 👋 </h1>
-#### My friend calls me an Energizer Bunny, so I wrote it in my resume summary, and got heavy backlash. 
+My friend calls me an Energizer Bunny, so I wrote it in my resume summary, and got heavy backlash. 
 
-###Fun facts
+## Fun facts
 * I am new to coding!*
 
-###LIST OF PROGRAMMING LANGUAGE/SOFTWARE I LEARNT
+## LIST OF PROGRAMMING LANGUAGE/SOFTWARE I LEARNT
   <br>
 <table>
 <tbody>
  <tr>
 <td align="center" width="20%">
 <span><b><center>SQL</center></b></span> 
-<img height=60px src="https://www.google.com/search?q=sql&sca_esv=f4c218d55768bdaf&rlz=1C5CHFA_enSG1008SG1008&udm=2&biw=1440&bih=813&sxsrf=ACQVn09ScUHNTzPkedxBxnPV98Ga1iq5lA%3A1713933975015&ei=l44oZpdL-LXj4Q-V1LaADg&ved=0ahUKEwjX8v7NhdqFAxX42jgGHRWqDeAQ4dUDCBA&uact=5&oq=sql&gs_lp=Egxnd3Mtd2l6LXNlcnAiA3NxbDIEECMYJzINEAAYgAQYsQMYQxiKBTIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESIkDUABY9wFwAHgAkAEAmAFWoAG9AaoBATO4AQPIAQD4AQGYAgOgAscBwgIKEAAYgAQYQxiKBcICCBAAGIAEGLEDmAMAkgcBM6AH0xI&sclient=gws-wiz-serp#vhid=b7JDQE4Ygd_iNM&vssid=mosaic"> 
+<img height=60px src=![SQL](https://www.google.com/search?q=sql&sca_esv=f4c218d55768bdaf&rlz=1C5CHFA_enSG1008SG1008&udm=2&biw=1440&bih=813&sxsrf=ACQVn09ScUHNTzPkedxBxnPV98Ga1iq5lA%3A1713933975015&ei=l44oZpdL-LXj4Q-V1LaADg&ved=0ahUKEwjX8v7NhdqFAxX42jgGHRWqDeAQ4dUDCBA&uact=5&oq=sql&gs_lp=Egxnd3Mtd2l6LXNlcnAiA3NxbDIEECMYJzINEAAYgAQYsQMYQxiKBTIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESIkDUABY9wFwAHgAkAEAmAFWoAG9AaoBATO4AQPIAQD4AQGYAgOgAscBwgIKEAAYgAQYQxiKBcICCBAAGIAEGLEDmAMAkgcBM6AH0xI&sclient=gws-wiz-serp#vhid=b7JDQE4Ygd_iNM&vssid=mosaic)> 
 </td>
 
 <td align="center" width="20%">
