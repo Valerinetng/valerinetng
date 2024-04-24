@@ -4,8 +4,9 @@ My friend calls me an Energizer Bunny. I was wondering what he was saying until 
 <img height="360px" src="https://github.com/Valerinetng/valerinetng/assets/167613192/76107479-77f3-4189-9918-9b6759cce33c"> 
 
 ### Fun facts
-* I am new to coding!
-* I am currently working in Finance (accounting), looking to pivot into more analytical roles. 
+* I am new to coding! :sparkles:
+* I am currently working in Finance (accounting), looking to pivot into more analytical roles. :bar_chart:
+* I have many hobbies -- gym (personal trainer certified), pilates, spin, guitar (self-learnt), travel.
 
 ### Data Exposure
   
