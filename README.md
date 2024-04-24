@@ -11,7 +11,7 @@ My friend calls me an Energizer Bunny, so I wrote it in my resume summary, and g
  <tr>
 <td align="center" width="20%">
 <span><b><center>SQL</center></b></span> 
-<img height=60px src="[[https://github.com/valerinetng/README.md/blob/main/img/SQL.png|alt=SQL]] 
+<img height=60px src="https://www.flaticon.com/free-icon/sql-server_4299956?term=sql&page=1&position=3&origin=search&related_id=4299956> 
 </td>
 
 <td align="center" width="20%">
