@@ -11,12 +11,12 @@ My friend calls me an Energizer Bunny, so I wrote it in my resume summary, and g
  <tr>
 <td align="center" width="20%">
 <span><b><center>SQL</center></b></span> 
-<img height=60px src=![SQL](https://www.google.com/search?q=sql&sca_esv=f4c218d55768bdaf&rlz=1C5CHFA_enSG1008SG1008&udm=2&biw=1440&bih=813&sxsrf=ACQVn09ScUHNTzPkedxBxnPV98Ga1iq5lA%3A1713933975015&ei=l44oZpdL-LXj4Q-V1LaADg&ved=0ahUKEwjX8v7NhdqFAxX42jgGHRWqDeAQ4dUDCBA&uact=5&oq=sql&gs_lp=Egxnd3Mtd2l6LXNlcnAiA3NxbDIEECMYJzINEAAYgAQYsQMYQxiKBTIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAEMgUQABiABDIFEAAYgAQyBRAAGIAESIkDUABY9wFwAHgAkAEAmAFWoAG9AaoBATO4AQPIAQD4AQGYAgOgAscBwgIKEAAYgAQYQxiKBcICCBAAGIAEGLEDmAMAkgcBM6AH0xI&sclient=gws-wiz-serp#vhid=b7JDQE4Ygd_iNM&vssid=mosaic)> 
+<img height=60px src="[[https://github.com/valerinetng/README.md/blob/main/img/SQL.png|alt=SQL]] 
 </td>
 
 <td align="center" width="20%">
 <span><b><center>Python</center></b></span> 
-<img height=60px src="https://www.google.com/search?q=python&sca_esv=f4c218d55768bdaf&rlz=1C5CHFA_enSG1008SG1008&udm=2&biw=1440&bih=813&sxsrf=ACQVn0-pC8XXv8s0azarNEZfmTYow2cb8g%3A1713933978290&ei=mo4oZpifEd-s4-EP6a21wA4&ved=0ahUKEwiY1MbPhdqFAxVf1jgGHelWDegQ4dUDCBA&uact=5&oq=python&gs_lp=Egxnd3Mtd2l6LXNlcnAiBnB5dGhvbjINEAAYgAQYsQMYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBTIKEAAYgAQYQxiKBUj7BVAAWIwFcAB4AJABAJgBL6AB2gGqAQE1uAEDyAEA-AEBmAIFoALhAcICBBAjGCfCAggQABiABBixA5gDAJIHATWgB4sb&sclient=gws-wiz-serp#vhid=wJ_8EiJgjRaS-M&vssid=mosaic"> 
+<img height=60px src="https://www.flaticon.com/free-icon/sql-server_4299956?term=sql&page=1&position=3&origin=search&related_id=4299956"> 
 </td>
 
 <td align="center" width="20%">
